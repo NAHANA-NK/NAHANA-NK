@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NAHANA-NK&show_icons=true&locale=en&layout=compact" alt="NAHANA-NK" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAHANA-NK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
